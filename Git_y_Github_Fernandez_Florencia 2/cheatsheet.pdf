@@ -1,0 +1,16 @@
+-git pull (actualizar los archivos contra la branch actual)
+-git fetch (obtener los cambios, pero no aplicarlos a la branch actual)
+-git remote add origin git@github.com:minombre/archivo-git.git (enlaza el
+repositorio local con un repositorio remoto)
+-git remote show origin (permite ver la información de los repositorios
+remotos)
+-git remote rename origin nombreNuevo (renombra un repositorio
+remoto)
+-git remote rm nombre_git (desvincula un repositorio remoto)
+-git push -u origin master (el primer push en el repositorio debe contener
+su nombre y branch)
+-git pull origin nombreeBranch (saca los archivos de una branch existente)
+-git push origin nuevaBranch_nombre (crea una branch remota con el mismo
+nombre)
+git commit nombre_archivo -m "mensaje del commit" (comitea un archivo o dorectorio)
+

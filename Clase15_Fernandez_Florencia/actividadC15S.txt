@@ -1,0 +1,3 @@
+1)Porque cada lenguaje al compilarlo depende de la arquitectura (CPU y SO) para el que fue diseñado
+2) VirtualBox es un software de virtualización para arquitecturas x86/amd64. Por medio de esta aplicación es posible instalar sistemas operativos adicionales, conocidos como <sistemas invitados>, dentro de otro sistema operativo <anfitrión>, cada uno con su propio ambiente virtual.
+3) No, son máquinas independientes. Se comportan como islas, están separadas entre sí y no afectan a la otra.
